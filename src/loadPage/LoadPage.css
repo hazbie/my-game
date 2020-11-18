@@ -1,0 +1,31 @@
+.loadPage {
+    background-image: url(../game.jpg);
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.wellcome {
+    padding-top: 8px;
+    color: white;
+    text-align: center;
+}
+
+.textfiled{
+    height: 300px;
+    margin-left: 500px;
+    display: flex;
+    align-items: center;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+}
+
+.instructions {
+    margin-left: 20px;
+    color: white;
+    font-style: italic;
+}

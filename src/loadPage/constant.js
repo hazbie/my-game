@@ -1,0 +1,13 @@
+export const WELLCOME = 'Wellcome to CardGame';
+export const DESCRIPTION = "Before entering your name please read the following instructions:";
+export const INSTRUCTIONS =  'Game instructions';
+export const INSTRUCTIONS_1 = 'Enter your name';
+export const INSTRUCTIONS_2 = 'By entering your name you enter the game';
+export const INSTRUCTIONS_3 = 'You will have $ 50 available';
+export const INSTRUCTIONS_4 = 'To start the game you have to spend $10 by pressing the button <Click to play button>';
+export const INSTRUCTIONS_5 = 'You will see four cards: 3 ruminants and one who loses';
+export const INSTRUCTIONS_6 = 'If you find the winning card in the score, $15 is added';
+export const INSTRUCTIONS_7 = 'If you find the card that loses the score you reduce by $ 10';
+export const INSTRUCTIONS_8 = 'If you choose to lose the total you have won, bet on the rest and the game is over';
+export const INSTRUCTIONS_9 = 'Winning cards have a fixed value';
+export const INSTRUCTIONS_10 = 'If I disconnect from the game I return to the loading page and destroy the session';
